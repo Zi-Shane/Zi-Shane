@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zi-Shane
 - 👀 I’m interested in Frontend, AI
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me ...
+- 📫 How to reach me: [website](https://zi-shane.github.io/), Email or IG
 
 <!---
 Zi-Shane/Zi-Shane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
